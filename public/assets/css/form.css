@@ -1,0 +1,37 @@
+/* custom.css */
+
+.custom-form {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  .custom-form .form-group {
+    margin-bottom: 20px;
+  }
+
+  .custom-form .form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+
+  .custom-form textarea.form-control {
+    resize: vertical;
+  }
+
+  .custom-form .btn {
+    background-color: #fdc134;
+    font-size: 16px;
+    cursor: pointer;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+  }
+
+  .custom-form .btn:hover {
+    background-color: #fdc134;
+  }
